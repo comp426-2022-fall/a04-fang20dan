@@ -1,0 +1,24 @@
+{
+  "name": "a04-fang20dan",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a04-fang20dan.git"
+  },
+  "author": "fang20dan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a04-fang20dan/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a04-fang20dan#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.7"
+  }
+}
